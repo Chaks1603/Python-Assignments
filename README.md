@@ -5,3 +5,7 @@
 ### Integration 
 ##### Trapezoidal Method
 ##### Simpson's $\frac{1}{3}$ Method
+
+```math
+SE = \frac{\sigma}{\sqrt{n}}
+```
