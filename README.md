@@ -47,3 +47,5 @@ Gauss Jordan Elimination and the using this method found the matrix inverse
 Jacobis Iitterative and Gauss Seidel Method 
 
 Power Method to find largest eigen value
+
+## Semester 3
