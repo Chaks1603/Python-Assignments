@@ -20,11 +20,7 @@ To study scientific tools in sympy
 
    scipy.integrate method 1D,2D,3D
    
-### Fourier Series
-
-### Power Spectrum
-
-### FFT
+### Fourier Series, Power Spectrum, FFT
 
 ### Roots Searching
 #### 1D
