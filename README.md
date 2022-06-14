@@ -12,36 +12,38 @@ To study scientific tools in sympy
 
 ## Semester 2
 ### Integration 
-   Trapezoidal Method
+   1.Trapezoidal Method
  
-   Simpson's $(\frac{1}{3})^{rd}$ Method
+   2.Simpson's $(\frac{1}{3})^{rd}$ Method
 
-   Gaussian Integration
+   3.Gaussian Integration
 
-   scipy.integrate method 1D,2D,3D
+   4.scipy.integrate method 1D,2D,3D
    
 ### Fourier Series, Power Spectrum, FFT
 
 ### Roots Searching
 #### 1D
-   Bisection Method
+   1.Bisection Method
    
-   Secant Method
+   2.Secant Method
    
-   Regula Falsi Method
+   3.Regula Falsi Method
     
-   Newton Raphson Method
+   4.Newton Raphson Method
     
  #### 2D
   Multi Dimension Newton Raphson Method & Bracketing implementation
       
 ### Linear Algebra
 #### Solve System of equations
-Gauss Elimination and backward substitution and pivot 
+1.Gauss Elimination and backward substitution and pivot 
 
-Gauss Jordan Elimination 
+2.Gauss Jordan Elimination 
 
-Jacobis Iitterative and Gauss Seidel Method 
+3.Jacobis Iitterative Method
+
+4.Gauss Seidel Method 
 
 #### Matrix Inverse
 
