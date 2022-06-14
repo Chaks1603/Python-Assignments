@@ -36,12 +36,15 @@ To study scientific tools in sympy
   Multi Dimension Newton Raphson Method & Bracketing implementation
       
 ### Linear Algebra
-Gauss Elimination, Gauss Elimination and backward substitution without and with pivot and the using this method found the matrix inverse
+#### Solve System of equations
+Gauss Elimination and backward substitution and pivot 
 
-Gauss Jordan Elimination and the using this method found the matrix inverse
+Gauss Jordan Elimination 
 
 Jacobis Iitterative and Gauss Seidel Method 
 
-Power Method to find largest eigen value
+#### Matrix Inverse
+
+#### Power Method to find largest eigen value
 
 ## Semester 3
