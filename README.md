@@ -48,5 +48,6 @@ To study scientific tools in sympy
 #### Matrix Inverse
 
 #### Power Method to find largest eigen value
+#### Inverse Power Method to find smallest eigen value
 
 ## Semester 3
