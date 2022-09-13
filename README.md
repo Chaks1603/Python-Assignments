@@ -64,3 +64,5 @@ To study scientific tools in sympy
 ### 3. Stastistical solution
    #### random method
    #### probablistic method
+   #### Monte carlo method
+   #### gaussian and exponential methods
