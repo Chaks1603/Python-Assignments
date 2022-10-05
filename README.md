@@ -1,17 +1,17 @@
 # Python-Semester-Assignments
 ## Semester 1
-Introduction to Python with basics and packages like Numpy,Matplotlib & Sympy
+- Introduction to Python with basics and packages like Numpy,Matplotlib & Sympy
 
-To evaluate special functions and to study their behaviours
+- To evaluate special functions and to study their behaviours
 
-To construct the histogram from a data file and to calculate different moments
+- To construct the histogram from a data file and to calculate different moments
 
-To estimate the goodness of a fit
+- To estimate the goodness of a fit
 
-To study scientific tools in sympy
+- To study scientific tools in sympy
 
 ## Semester 2
-### Integration 
+- ### Integration 
    1.Trapezoidal Method
  
    2.Simpson's $(\frac{1}{3})^{rd}$ Method
@@ -20,10 +20,10 @@ To study scientific tools in sympy
 
    4.scipy.integrate method 1D,2D,3D
    
-### Fourier Series, Power Spectrum, FFT
+- ### Fourier Series, Power Spectrum, FFT
 
-### Roots Searching
-#### 1D
+- ### Roots Searching
+   #### 1D
    1.Bisection Method
    
    2.Secant Method
@@ -32,37 +32,43 @@ To study scientific tools in sympy
     
    4.Newton Raphson Method
     
- #### 2D
+   #### 2D
   Multi Dimension Newton Raphson Method & Bracketing implementation
       
-### Linear Algebra
-#### Solve System of equations
-1.Gauss Elimination and backward substitution and pivot 
+- ### Linear Algebra
+- #### Solve System of equations
+   1.Gauss Elimination and backward substitution and pivot 
 
-2.Gauss Jordan Elimination 
+   2.Gauss Jordan Elimination 
 
-3.Jacobis Iitterative Method
+   3.Jacobis Iitterative Method
 
-4.Gauss Seidel Method 
+   4.Gauss Seidel Method 
 
-#### Matrix Inverse
+- #### Matrix Inverse
 
-#### Power Method to find largest eigen value
-#### Inverse Power Method to find smallest eigen value
+- #### Power Method to find largest eigen value
+- #### Inverse Power Method to find smallest eigen value
 
 ## Semester 3
 
-### 1. ODE's
-   #### Eulers method
-   #### RK4 method
-   #### scipy method
+- ###  ODE's
+   1.Eulers method
+   
+   2.RK4 method
+   
+   3.scipy method
 
-### 2. Quantum Solutions
-   #### shooting method
-   #### numerov method
+- ###  Quantum Solutions
+   1.shooting method
+   
+   2.numerov method
 
-### 3. Stastistical solution
-   #### random method
-   #### probablistic method
-   #### Monte carlo method
-   #### gaussian and exponential methods
+- ###  Stastistical solution
+   1.random method
+   
+   2.probablistic method
+   
+   3.Monte carlo method
+   
+   4.gaussian and exponential methods
