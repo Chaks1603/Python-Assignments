@@ -1,5 +1,6 @@
 In the 7 segment displayplot I plotted the segment in color display,
 but there is a problem in the github side to open the file.
+
 So writing it here for better explanation!
 
 ```python
