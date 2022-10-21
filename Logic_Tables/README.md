@@ -4,16 +4,13 @@ but there is a problem in the github side to open the file.
 So writing it here for better explanation!
 
 ```python
-        
     print(' ',a,"\n",f,g,b,"\n",e,d,c)
 ```
       
 And on calling it as:
 
-```python 
-print(display_7_segment(1,1,1,1,1,1,1)) 
-```
  we get the output
+
 ```python
   _ 
 | _ | 
