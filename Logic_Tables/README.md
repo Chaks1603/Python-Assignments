@@ -76,3 +76,4 @@ Now what I did , to get the coloured plot is to change the initials of print as
     
 ```
       
+<img align=center src="https://github.com/Chaks1603/Python-Assignments/blob/main/Logic_Tables/img/bcd.png">
