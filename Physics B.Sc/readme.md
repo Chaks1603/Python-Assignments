@@ -11,16 +11,16 @@
 10. Power Iteration and Inverse Power Iteration
 
 # Special Polynomial Functions
-1.	Legendre Function 
-2.	Chebyshev Function
-3.	Hermite Function
-4.	Laguerre Function 
-5.	Bessel Function
-6.	Hyper-Geometric Function
-7.	Confluent Hyper-Geometric Function
-8.	Gamma Function
-9.	Beta Function
-10.	Error Function
+1.	Legendre Function : $\displaystyle(1-x^2)\ddot{y} -2x\dot{y} + n(n+1)y = 0$
+2.	Chebyshev Function : $\displaystyle(1-x^2)\ddot{y}-x\dot{y}+n^2y=0  $
+3.	Hermite Function : $\displaystyle\ddot{y} - 2x\dot{y} + 2ny = 0 $
+4.	Laguerre Function : $\displaystyle x\ddot{y} + (1 - x)\dot{y} + n y = 0 $
+5.	Bessel Function : $\displaystyle x^2 \ddot{y} + x \dot{y} + (x^2 - n^2) y = 0 $
+6.	Hyper-Geometric Function : $\displaystyle x(1-x)\ddot{y}+[c-(a+b+1)x]\dot{y}-aby=0$
+7.	Confluent Hyper-Geometric Function : $\displaystyle x \ddot{y} + (b-x) \dot{y} - ay = 0 $
+8.	Gamma Function :
+9.	Beta Function :
+10.	Error Function :
 
 # Partial Differential Equations
 1. Diffusion Equation : $\displaystyle{\frac{\partial \phi}{\partial t} = \kappa \nabla^2 u} $
