@@ -9,3 +9,15 @@
 8. LU Decomposition
 9. QR Decomposition
 10. Power Iteration and Inverse Power Iteration
+
+# Special Polynomial Functions
+1.	Legendre Function 
+2.	Chebyshev Function
+3.	Hermite Function
+4.	Laguerre Function 
+5.	Bessel Function
+6.	Hyper-Geometric Function
+7.	Confluent Hyper-Geometric Function
+8.	Gamma Function
+9.	Beta Function
+10.	Error Function
