@@ -22,6 +22,18 @@
 9.	Beta Function :
 10.	Error Function :
 
+# Integrations
+1. Trapezoidal method
+2. Simpson method
+3. Newton Cotes
+4. Gauss Quadratures
+5. Euler's Forward & Backward method
+7. Runge-Kutta method
+8. Leap-Frog method
+9. Predictor-Corrector method
+10. Adams-Bashforth Method
+11. Adams-Moulton Method
+
 # Partial Differential Equations
 1. Diffusion Equation : $\displaystyle{\frac{\partial \phi}{\partial t} = \kappa \nabla^2 u} $
 2. Wave Equation : $\displaystyle \frac{\partial u}{\partial t}=-c\nabla u$
