@@ -11,23 +11,23 @@ The torque of the weight is $-mgL\sin\theta,$ and that of the driving force is $
 
 Thus, the equation of motion $I\ddot{\theta}=\Gamma$ is :
 
-$\qquad mL^2\ddot{\theta} = -bL^2\dot{\theta} - mgL\sin\theta + LF(t) \tag{1}$
+$\qquad mL^2\ddot{\theta} = -bL^2\dot{\theta} - mgL\sin\theta + LF(t) \qquad ({1})$
 
 Assume that the driving force $F(t)$ is sinusoidal:
 
-$\qquad F(t) = F_o\cos(\omega t) \tag{2}$
+$\qquad F(t) = F_o\cos(\omega t) \qquad\qquad\qquad\qquad({2})$
 
 where $F_o$ is the drive amplitude (the amplitude of the driving force) and $\omega$ is the drive frequency. 
 
 Substituting $(2)$ into $(1),$ we find:
 
-$\therefore \quad mL^2\ddot{\theta} = -bL^2\dot{\theta} - mgL\sin\theta + LF_o\cos(\omega t) \tag{3}$
+$\therefore \quad mL^2\ddot{\theta} = -bL^2\dot{\theta} - mgL\sin\theta + LF_o\cos(\omega t) \qquad\qquad({3})$
 
 or, $\qquad\ddot{\theta} + \frac{b}{m}\dot{\theta} + \frac{g}{L}\sin\theta = \frac{F_o}{mL}\cos\omega t \quad \left[ \because \ \frac{b}{m}=2\beta,\frac{g}{L}=\omega_o^2, \gamma=\frac{F_o}{mL\omega_o^2}=\frac{F_o}{mg} \right]$
 
 Finally,
 
-$\qquad\ddot{\theta} + 2\beta\dot{\theta} + \omega^2_o\sin{\theta} = \gamma\omega^2_o\cos\omega t \tag{4}$
+$\qquad\ddot{\theta} + 2\beta\dot{\theta} + \omega^2_o\sin{\theta} = \gamma\omega^2_o\cos\omega t \qquad\qquad({4})$
 
 where:
 - Damping constant $= \beta ,$
