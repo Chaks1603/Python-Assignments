@@ -1,7 +1,7 @@
 # Damped Driven Pendulum's Oscillation Equation
 
 The equation of motion is just $I\ddot{\theta} = \Gamma$, where $I$ is the moment of inertia and $\Gamma$ is the net torque about the pivot.                                                                                                                     
-In this case $I = m L^2 ,$ and the torque arises from the three forces shown in Figure .    
+In this case $I = m L^2 ,$ and the torque arises from the three forces shown in Figure below.    
 
 ![Driven-damped-pendulum](https://raw.githubusercontent.com/Chaks1603/Storage/main/Driven-damped-pendulum.png)
 
