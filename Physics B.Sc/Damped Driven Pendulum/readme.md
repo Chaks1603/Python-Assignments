@@ -80,3 +80,7 @@ An algorithm based on your code for generating the bifurcation diagram of a driv
 
 ![Driven-damped-pendulum-Bifurcation](https://i.sstatic.net/8McxfWpT.png)
 
+
+### Steady-States Chaotic and Poincare Sections :
+
+![steady-state](https://scontent.fccu3-1.fna.fbcdn.net/v/t39.30808-6/457201801_2335828696749598_8320498717348690060_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=f727a1&_nc_ohc=5QqnaEsRqfsQ7kNvgEFOlZ0&_nc_ht=scontent.fccu3-1.fna&oh=00_AYC6QRT9mOlN3TvCfnOueUZVNY_znCEtszNun9qeW55sYg&oe=66D3B957)
