@@ -45,21 +45,38 @@
 
 where $\displaystyle{\nabla=\hat{i}\frac{\partial}{\partial x}+\hat{j}\frac{\partial}{\partial y}+\hat{k}\frac{\partial}{\partial z}}$
 
-# $\text{Damped Driven Pendulum's Oscillation Equation}$                                                                                                      
+# Damped Driven Pendulum's Oscillation Equation
+
 The equation of motion is just $I\ddot{\theta} = \Gamma$, where $I$ is the moment of inertia and $\Gamma$ is the net torque about the pivot.                                                                                                                     
 In this case $I = m L^2 ,$ and the torque arises from the three forces shown in Figure .    
 
-<img src="https://raw.githubusercontent.com/Chaks1603/Storage/main/Driven-damped-pendulum.png" alt="Driven-damped-pendulum" style="float: right; width: 250px;"/>                                                                                                   
+![Driven-damped-pendulum](https://raw.githubusercontent.com/Chaks1603/Storage/main/Driven-damped-pendulum.png)
 
-The resistive force has magnitude $bv$ and hence exerts a torque $-Lbv = -bL^2\dot{\theta}$.                                    
-The torque of the weight is $-mgL\sin\theta,$ and that of the driving force is $LF(t)$.                                             
-Thus the equation of motion $I\ddot{\theta}=\Gamma$ is                                                                                   
-$\quad \begin{align} mL^2\ddot{\theta}=-bL^2\dot{\theta}-mgL\sin\theta+LF(t) \qquad\qquad\qquad\qquad\qquad\qquad\qquad\qquad\qquad\quad \ \ \ (1) \end{align}$                                                                          
-Let us assume that the driving force $F(t)$ is sinusoidal;                                                                  
-$\quad\begin{align} {i.e.}, \qquad F(t)=F_o\cos(\omega t)  \qquad\qquad\qquad\qquad\qquad\qquad\qquad\qquad\qquad\qquad\qquad\quad \ (2)  \end{align}$                                                                    
-where $F_o$ is the drive amplitude (the amplitude of the driving force) and $\omega$ the drive frequency.                         
-Substituting $(2)$ in $(1)$, we find that,                                                                                                                   
-$\quad\begin{align} &{\therefore}\quad mL^2\ddot{\theta}=-bL^2\dot{\theta}-mgL\sin\theta+LF_o\cos(\omega t)  \qquad\qquad\qquad\qquad\qquad\qquad\qquad\qquad \ (3) \\ 
-&{or}, \quad\ddot{\theta} + \frac{b}{m}\dot{\theta} + \frac{g}{L}\sin\theta = \frac{F_o}{mL}\cos\omega t \qquad \bigg[ \because \ \frac{b}{m}=2\beta,\frac{g}{L}=\omega_o^2, \gamma=\frac{F_o}{mL\omega_o^2}=\frac{F_o}{mg} \bigg] \\
-&{or}, \quad\ddot{\theta}+2\beta\dot{\theta}+\omega^2_o\sin{\theta} = \gamma\omega^2_o\cos\omega t   \qquad\qquad\qquad\qquad\qquad\qquad\qquad\qquad\qquad\qquad (4) \\
-&{\text{where },}\quad \text{ damping constant }=\beta,  \text{ natural frequency }=\omega_o, \text{ driving strength }=\gamma \ (\text{dimensionless}) \end{align}$
+The resistive force has magnitude  $bv$  and hence exerts a torque $-Lbv = -bL^2\dot{\theta}$.
+
+The torque of the weight is $-mgL\sin\theta,$ and that of the driving force is $LF(t)$. 
+
+Thus, the equation of motion $I\ddot{\theta}=\Gamma$ is :
+
+$\qquad mL^2\ddot{\theta} = -bL^2\dot{\theta} - mgL\sin\theta + LF(t) \tag{1}$
+
+Assume that the driving force $F(t)$ is sinusoidal:
+
+$\qquad F(t) = F_o\cos(\omega t) \tag{2}$
+
+where $F_o$ is the drive amplitude (the amplitude of the driving force) and $\omega$ is the drive frequency. 
+
+Substituting $(2)$ into $(1),$ we find:
+
+$\therefore \quad mL^2\ddot{\theta} = -bL^2\dot{\theta} - mgL\sin\theta + LF_o\cos(\omega t) \tag{3}$
+
+or, $\qquad\ddot{\theta} + \frac{b}{m}\dot{\theta} + \frac{g}{L}\sin\theta = \frac{F_o}{mL}\cos\omega t \quad \left[ \because \ \frac{b}{m}=2\beta,\frac{g}{L}=\omega_o^2, \gamma=\frac{F_o}{mL\omega_o^2}=\frac{F_o}{mg} \right]$
+
+Finally,
+
+$\qquad\ddot{\theta} + 2\beta\dot{\theta} + \omega^2_o\sin{\theta} = \gamma\omega^2_o\cos\omega t \tag{4}$
+
+where:
+- Damping constant $= \beta ,$
+- Natural frequency $= \omega_o ,$
+- Driving strength $= \gamma$ (dimensionless).
