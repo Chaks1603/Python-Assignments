@@ -11,11 +11,11 @@ The torque of the weight is $-mgL\sin\theta,$ and that of the driving force is $
 
 Thus, the equation of motion $I\ddot{\theta}=\Gamma$ is :
 
-$\qquad mL^2\ddot{\theta} = -bL^2\dot{\theta} - mgL\sin\theta + LF(t) \qquad ({1})$
+$\qquad mL^2\ddot{\theta} = -bL^2\dot{\theta} - mgL\sin\theta + LF(t) \qquad\qquad\qquad ({1})$
 
 Assume that the driving force $F(t)$ is sinusoidal:
 
-$\qquad F(t) = F_o\cos(\omega t) \qquad\qquad\qquad\qquad({2})$
+$\qquad F(t) = F_o\cos(\omega t) \qquad\qquad\qquad\qquad\qquad\qquad\qquad({2})$
 
 where $F_o$ is the drive amplitude (the amplitude of the driving force) and $\omega$ is the drive frequency. 
 
@@ -27,7 +27,7 @@ or, $\qquad\ddot{\theta} + \frac{b}{m}\dot{\theta} + \frac{g}{L}\sin\theta = \fr
 
 Finally,
 
-$\qquad\ddot{\theta} + 2\beta\dot{\theta} + \omega^2_o\sin{\theta} = \gamma\omega^2_o\cos\omega t \qquad\qquad({4})$
+$\qquad\ddot{\theta} + 2\beta\dot{\theta} + \omega^2_o\sin{\theta} = \gamma\omega^2_o\cos\omega t \qquad\qquad\qquad\qquad({4})$
 
 where:
 - Damping constant $= \beta ,$
