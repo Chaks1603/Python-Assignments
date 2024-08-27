@@ -46,7 +46,7 @@ An algorithm based on your code for generating the bifurcation diagram of a driv
    - Set the damping coefficient $\beta = \omega_o / 4$.
    - Define the time step $\text{dt} = 0.01$.
    - Define the time span $t_{\text{span}} = [0, 600]$.
-   - Set the initial conditions $x_0 = [-\pi/2, 0]$ for angle $\theta_0$ and angular velocity $\dot{\theta}_0$.
+   - Set the initial conditions $x_0 = \bigg[-\frac{\pi}{2}, 0 \bigg]$ for angle $\theta_0$ and angular velocity $\dot{\theta}_0$.
 
 2. **Define Sampling Points:**
    - Create a list of sampling points (indices) corresponding to times from $t = 500$ to $t = 600 $ with a step size of $\text{dt}$.
@@ -62,7 +62,7 @@ An algorithm based on your code for generating the bifurcation diagram of a driv
      - For each sampled $\theta$, append the pair $(\gamma, \theta)$ to the list `th`.
 
 5. **Loop Over Driving Force Amplitude for $\dot{\theta}$ Bifurcation Diagram:**
-   - For each value of $\gamma$ in a specified range (e.g., $\gamma \in [1.03, 1.53]$):
+   - For each value of $\gamma$ in a specified range $(e.g., \gamma \in [1.03, 1.53]):$
      - Set the parameters $(\beta, \omega_o, \gamma, \omega)$.
      - Solve the equation of motion using the RK4 method over the time span.
      - Extract the $\dot{\theta}$ values at the specified sampling points.
