@@ -80,3 +80,6 @@ where:
 - Damping constant $= \beta ,$
 - Natural frequency $= \omega_o ,$
 - Driving strength $= \gamma$ (dimensionless).
+
+
+![Driven-damped-pendulum-Bifurcation](https://i.sstatic.net/8McxfWpT.png)
