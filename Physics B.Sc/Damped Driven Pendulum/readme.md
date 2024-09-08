@@ -67,11 +67,9 @@ An algorithm based on your code for generating the bifurcation diagram of a driv
      - Solve the equation of motion using the RK4 method over the time span.
      - Extract the $\dot{\theta}$ values at the specified sampling points.
      - For each sampled $\dot{\theta}$, append the pair $(\gamma, \dot{\theta})$ to the list `dth`.
-
-6. **Convert Lists to Arrays:**
    - Convert the lists `th` and `dth` to numpy arrays `theta_bif` and `theta_dot_bif` respectively.
 
-7. **Plot Bifurcation Diagrams:**
+6. **Plot Bifurcation Diagrams:**
    - Create a subplot with two plots:
      1. Plot $\gamma$ vs. $\theta$ using the data in `theta_bif`.
      2. Plot $\gamma$ vs. $\dot{\theta}$ using the data in `theta_dot_bif`.
