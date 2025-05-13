@@ -23,7 +23,7 @@ Substituting $(2)$ into $(1),$ we find:
 
 $\therefore \quad mL^2\ddot{\theta} = -bL^2\dot{\theta} - mgL\sin\theta + LF_o\cos(\omega t) \qquad\qquad({3})$
 
-or, $\qquad\ddot{\theta} + \frac{b}{m}\dot{\theta} + \frac{g}{L}\sin\theta = \frac{F_o}{mL}\cos\omega t \quad \left[ \because \ \frac{b}{m}=2\beta,\frac{g}{L}=\omega_o^2, \gamma=\frac{F_o}{mL\omega_o^2}=\frac{F_o}{mg} \right]$
+or, $\quad\ddot{\theta} + \frac{b}{m} \dot{\theta} + \frac{g}{L} \sin\theta = \frac{F_0}{mL} \cos \omega t$
 
 Finally,
 
