@@ -80,8 +80,8 @@
 |`\breve{a}`|$\breve{a}$|
 |`{a}^\ast`|${a}^\ast$|
 |`{a}^\dagger`|${a}^\dagger$|
-|`\widehat{AAA}`|$\widehat{AAA}$|
-|`\widetilde{AAA}`|$\widetilde{AAA}$
+|`\widehat{AAA}`|$\displaystyle{\widehat{AAA}}$|
+|`\widetilde{AAA}`|$\displaystyle{\widetilde{AAA}}$
 |`$\oint_a^b$ `|$\displaystyle\oint_a^b$ |
 |`$\int_a^b$ `|$\displaystyle\int_a^b$ |
 |`$\iint_a^b$ `|$\displaystyle\iint_a^b$ |
