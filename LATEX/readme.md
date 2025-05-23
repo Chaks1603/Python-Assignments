@@ -46,12 +46,6 @@
 |` $\omega$ `|$\omega$ |
 |` $\Omega$ `|$\Omega$ |
 |`  `| |
-|` $\mathrm{Hom}$ `| $\mathrm{Hom}$|
-|` $\mathbb{Z}$ `|$\mathbb{Z}$ |
-|` $\mathscr{L}$ `| $\mathscr{L}$|
-|` $\mathfrak{g}$ `|$\mathfrak{g}$ |
-|` $\mathbf{v}$ `|$\mathbf{v}$ |
-|`  `| |
 |`$\dots$  `|$\dots$ |  
 |`$\vdots$  `|$\vdots$ |
 |`$\ddots$  `| $\ddots$|
@@ -94,5 +88,11 @@
 |`\mathtt{...}`| Typewriter Font|
 |`\mathit{...}`| Italic Font|
 |`\mathcal{...}`| CALLIGRAPHIC|
+|` $\mathrm{Hom}$ `| $\mathrm{Hom}$|
+|` $\mathbb{Z}$ `|$\mathbb{Z}$ |
+|` $\mathscr{L}$ `| $\mathscr{L}$|
+|` $\mathfrak{g}$ `|$\mathfrak{g}$ |
+|` $\mathbf{v}$ `|$\mathbf{v}$ |
+|`  `| |
 |` `|  |
 
