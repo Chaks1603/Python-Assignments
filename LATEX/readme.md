@@ -46,6 +46,12 @@
 |` $\omega$ `|$\omega$ |
 |` $\Omega$ `|$\Omega$ |
 |`  `| |
+|` $\mathrm{Hom}$ `| $\mathrm{Hom}$|
+|` $\mathbb{Z}$ `|$\mathbb{Z}$ |
+|` $\mathscr{L}$ `| $\mathscr{L}$|
+|` $\mathfrak{g}$ `|$\mathfrak{g}$ |
+|` $\mathbf{v}$ `|$\mathbf{v}$ |
+|`  `| |
 |`$\dots$  `|$\dots$ |  
 |`$\vdots$  `|$\vdots$ |
 |`$\ddots$  `| $\ddots$|
@@ -74,25 +80,17 @@
 |`\breve{a}`|$\breve{a}$|
 |`{a}^\ast`|${a}^\ast$|
 |`{a}^\dagger`|${a}^\dagger$|
-|`\widehat{AAA}`|$\displaystyle{\widehat{AAA}}$|
-|`\widetilde{AAA}`|$\displaystyle{\widetilde{AAA}}$
+|`\widehat{AAA}`|$\widehat{AAA}$|
+|`\widetilde{AAA}`|$\widetilde{AAA}$|
 |`$\oint_a^b$ `|$\displaystyle\oint_a^b$ |
 |`$\int_a^b$ `|$\displaystyle\int_a^b$ |
 |`$\iint_a^b$ `|$\displaystyle\iint_a^b$ |
 |`$\iiint_a^b$ `|$\displaystyle\iiint_a^b$ |
 |`$\idotsint$`| $\idotsint$ |
-|`  `|  |
-|`\mathrm{...}`| Roman Font|
-|`\mathbf{...}`| Boldface Font|
-|`\mathsf{...}`| Sans Serif Font|
-|`\mathtt{...}`| Typewriter Font|
-|`\mathit{...}`| Italic Font|
-|`\mathcal{...}`| CALLIGRAPHIC|
-|` $\mathrm{Hom}$ `| $\mathrm{Hom}$|
-|` $\mathbb{Z}$ `|$\mathbb{Z}$ |
-|` $\mathscr{L}$ `| $\mathscr{L}$|
-|` $\mathfrak{g}$ `|$\mathfrak{g}$ |
-|` $\mathbf{v}$ `|$\mathbf{v}$ |
 |`  `| |
-|` `|  |
-
+|`$\langle x \rangle$`| $ \langle x \rangle$|
+|`$\langle a  \vert b \rangle$`| $\langle a \vert b \rangle$|
+|`$\langle a \mid b \rangle$`| $\langle a \mid b \rangle$|
+|`$\langle a \mid\psi\mid b \rangle$`| $\langle a \mid\psi\mid b \rangle$|
+|`$\langle a  \vert\psi\vert b \rangle$`| $\langle a \vert\psi\vert b \rangle$|
+|`$ \vert a \rangle \langle b \vert $`| $ \vert a \rangle \langle b\vert $|
