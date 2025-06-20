@@ -88,9 +88,9 @@
 |`$\iiint_a^b$ `|$\displaystyle\iiint_a^b$ |
 |`$\idotsint$`| $\idotsint$ |
 |`  `| |
-|`$\langle x \rangle$`| $ \langle x \rangle$|
+|`$\langle x \rangle$`| $\langle x \rangle$|
 |`$\langle a  \vert b \rangle$`| $\langle a \vert b \rangle$|
 |`$\langle a \mid b \rangle$`| $\langle a \mid b \rangle$|
 |`$\langle a \mid\psi\mid b \rangle$`| $\langle a \mid\psi\mid b \rangle$|
 |`$\langle a  \vert\psi\vert b \rangle$`| $\langle a \vert\psi\vert b \rangle$|
-|`$ \vert a \rangle \langle b \vert $`| $ \vert a \rangle \langle b\vert $|
+|`$ \vert a \rangle \langle b \vert $`| $\vert a \rangle\langle b \vert$|
