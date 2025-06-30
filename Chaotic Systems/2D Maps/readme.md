@@ -11,3 +11,4 @@
 9. Ideka Map
 10. Modified Hénon’s Map
 11. Web Map (Periodically-Kicked)
+12. Baker's Map
