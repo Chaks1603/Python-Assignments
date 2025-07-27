@@ -1,14 +1,15 @@
 # Iterative Maps
 
-1. Kalpan-Yorke Map
-2. Chirikov Standard Map
-3. Quantum Map
-4. Hénon-Heilis Map
-5. Cubic Map
-6. Hénon’s area-preserving quadratic Map
-7. Hénon’s Map
-8. Lozi Map
-9. Ideka Map
-10. Modified Hénon’s Map
-11. Web Map (Periodically-Kicked)
-12. Baker's Map
+1. Baker's Map
+2. Kalpan-Yorke Map
+3. Chirikov Standard Map
+4. Quantum Map
+5. Hénon-Heilis Map
+6. Cubic Map
+7. Hénon’s area-preserving quadratic Map
+8. Hénon’s Map
+9. Lozi Map
+10. Ideka Map
+11. Modified Hénon’s Map
+12. Web Map (Periodically-Kicked)
+
