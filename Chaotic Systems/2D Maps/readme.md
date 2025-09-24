@@ -19,6 +19,7 @@ y_{n+1} &= \alpha y_n + \cos(4\pi x_n),
 $$
 
 3D extension:
+
 $$
 \begin{aligned}
 x_{n+1} &= \beta x_n \pmod{1}, \\
