@@ -10,6 +10,9 @@ $$
 $$
 
 ## 2. Kaplan–Yorke Map
+
+2D extension: 
+
 $$
 \begin{aligned}
 x_{n+1} &= 2x_n \pmod{1}, \\
@@ -54,6 +57,7 @@ H = \frac{1}{2m}(p_x^2 + p_y^2) + \frac{1}{2}k(x^2+y^2) + \lambda(x^2 y - \tfrac
 $$
 
 In polar coordinates:
+
 $$
 H = \frac{p_r^2}{2m} + \frac{p_\theta^2}{2mr^2} + \tfrac{1}{2}kr^2 + \tfrac{1}{3}\lambda r^3 \sin(3\theta)
 $$
@@ -117,12 +121,15 @@ $$
 
 
 ## 12. Web Map (Periodically-Kicked Hamiltonian System)
+
 Equation of motion:
+
 $$
 \ddot{x} + \omega_0^2 x = -\omega_0 K \sin x \sum_{n=-\infty}^{\infty} \delta(t-nT)
 $$
 
 Equivalent discrete web map:
+
 $$
 \begin{aligned}
 x_{n+1} &= x_n + y_{n+1}, \\
