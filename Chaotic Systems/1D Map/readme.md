@@ -81,7 +81,7 @@ $$
 ## 13. Sine-Circle Map
 $$
 \theta_{n+1} = \theta_n + \Omega - \frac{K}{2\pi}\sin(2\pi \theta_n) \pmod{1},
-\qquad 0.5<K<5.5,\ \Omega=0.5
+\qquad 0.5 < K < 5.5 ,\ \Omega=0.5
 $$
 
 
