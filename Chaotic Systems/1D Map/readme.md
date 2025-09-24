@@ -73,7 +73,7 @@ $$
 
 ## 12. Circle Map
 $$
-\theta_{n+1} = \theta_n + \Omega - \frac{K}{2\pi}\sin\,\big(2\pi \theta_n\big),
+\theta_{n+1} = \theta_n + \Omega - \frac{K}{2\pi}\sin \big(2\pi \theta_n\big),
 \qquad \theta_n > 0
 $$
 
