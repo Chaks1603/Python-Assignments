@@ -32,7 +32,19 @@ z_{n+1} &= \alpha z_n + \sin(4\pi x_n),
 \qquad 0<\alpha<1
 $$
 
-## 3. Chirikov Standard Map
+## 3. Standard Map
+
+i.
+
+$$
+\begin{aligned} 
+x_{n+1} &= x_n+y_{n+1}, \\
+y_{n+1} &= y_n+k\sin x_n
+\end{aligned}
+$$                                            
+
+ii.
+
 $$
 \begin{aligned}
 p_{n+1} &= p_n - K \sin q_n, \\
