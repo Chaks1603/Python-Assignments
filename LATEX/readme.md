@@ -52,6 +52,7 @@
 |` $\mathscr{L}$ `| $\mathscr{L}$|
 |` $\mathfrak{g}$ `|$\mathfrak{g}$ |
 |` $\mathbf{v}$ `|$\mathbf{v}$ |
+|` $\mathcal{H}$ `|$\mathcal{H}$ | 
 |`  `| |
 |`$\dots$  `|$\dots$ |  
 |`$\vdots$  `|$\vdots$ |
