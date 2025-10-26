@@ -45,6 +45,7 @@
 |` $\chi$ `| $\chi$|
 |` $\omega$ `|$\omega$ |
 |` $\Omega$ `|$\Omega$ |
+|` ${}^\circ\text{C}$ `| ${}^\circ\text{C}$ |
 |`  `| |
 |` $\mathrm{Hom}$ `| $\mathrm{Hom}$|
 |` $\mathbb{Z}$ `|$\mathbb{Z}$ |
