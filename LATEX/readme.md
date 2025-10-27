@@ -45,6 +45,8 @@
 |` $\chi$ `| $\chi$|
 |` $\omega$ `|$\omega$ |
 |` $\Omega$ `|$\Omega$ |
+|` $\ohm$ `| $\ohm$ |
+|` $\mho$ `| $\mho$ |
 |` ${}^\circ\text{C}$ `| ${}^\circ\text{C}$ |
 |`  `| |
 |` $\mathrm{Hom}$ `| $\mathrm{Hom}$|
