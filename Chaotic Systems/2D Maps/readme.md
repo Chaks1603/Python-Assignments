@@ -11,7 +11,7 @@ $$
 
 ## 2. Kaplan–Yorke Map
 
-2D extension: 
+  2D extension: 
 
 $$
 \begin{aligned}
@@ -236,7 +236,7 @@ $$
 
 ## 5. Sierpiński Case
 
-### i. Gasket or Sierpinski right triangle.
+### i. Gasket or Sierpinski triangles pattern.
 ### ii. Carpet
 ### iii. Cantor Dust 
 ### iv. Vicsek fractal or Vicsek Snowflake
