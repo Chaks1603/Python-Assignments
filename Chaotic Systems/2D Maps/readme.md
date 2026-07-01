@@ -257,3 +257,5 @@ $$
 ## 8. Diffusion-Limited Aggregation(DLA)
 
 ## 9. Correlated Ballistic Deposition
+
+## 10. Weierstrass Function
