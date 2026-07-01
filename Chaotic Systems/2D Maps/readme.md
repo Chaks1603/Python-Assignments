@@ -247,12 +247,68 @@ $$
 ## 7. Curve
 
 ### i. Mystery Curve
+Distributing the global rotation term $e^{it}$ gives:  
+
+$$f(t) = e^{it} - \frac{1}{2}e^{i(k+1)t} + \frac{i}{3}e^{-i(k-1)t}$$ 
+
+Converting this into standalone $x(t)$ and $y(t)$ coordinates yields:
+
+$$\begin{aligned}
+x(t) &= \cos(t) - \frac{1}{2}\cos\big((k+1)t\big) + \frac{1}{3}\sin\big((1-k)t\big) \\
+y(t) &= \sin(t) - \frac{1}{2}\sin\big((k+1)t\big) + \frac{1}{3}\cos\big((1-k)t\big) 
+\end{aligned}$$
 
 ### ii. Moore Curve
+#### Formal Definition
+
+* **Alphabet:** $\Sigma = \{L, R\}$
+* **Constants:** $C = \{F, +, -\}$
+* **Axiom $(\omega)$:**   $\omega = LFL+F+LFL$
+
+#### Production Rules
+
+The generation rules applied concurrently to every structural element at each recursive iteration are:
+
+$$\begin{aligned}
+L &\longrightarrow -RF+LFL+FR- \\
+R &\longrightarrow +LF-RFR-FL+
+\end{aligned}$$
+
+#### Command Interpretations
+
+When parsing the final string into geometric coordinate steps:
+* $F$ : Draw forward one unit step length
+* $-$ : Turn left by $90^\circ$ (counter-clockwise)
+* $+$ : Turn right by $90^\circ$ (clockwise)
 
 ### iii. Hilbert Curve
+The length $L_n$ of the $n$-th curve is defined as
+
+$$ L_n = 2^n - \frac{1}{2^n}$$
+
 
 ### iv. Gosper Curve
+
+#### Formal Definition
+
+* **Angle $(\theta)$:** $60^\circ$
+* **Axiom $(\omega)$:**  $\omega = A$
+
+#### Production Rules
+
+The replacement rules applied concurrently to every variable at each recursive iteration are:
+
+$$\begin{aligned}
+A &\longrightarrow A - B - - B + A + + A A + B - \\
+B &\longrightarrow + A - B B - - B - A + + A + B
+\end{aligned}$$
+
+#### Command Interpretations
+
+When parsing the final generated string array using a "turtle-style" graphics processor:
+* **$A$ or $B$** : Move forward drawing a straight line segment
+* **$-$** : Turn left by $60^\circ$ (clockwise)
+* **$+$** : Turn right by $60^\circ$ (counter-clockwise)
 
 ## 8. Diffusion-Limited Aggregation(DLA)
 
