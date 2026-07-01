@@ -148,3 +148,74 @@ x_{n+1} &= x_n + y_{n+1}, \\
 y_{n+1} &= y_n - K \sin(x_n)
 \end{aligned}
 $$
+
+
+# Patterns 
+
+## 1. Cantor Set
+
+## 2. Lévy C-Curve
+
+## 3. Pythagoras Tree
+
+### i. Perfect
+
+### ii. Imperfect
+
+## 4. Barnsley's Fern Fractal
+
+### i. Case 1
+$$
+(x_{n+1}, y_{n+1}) =
+\begin{cases}
+(0.5, 0.27y_n), & r < 0.02,\\
+(−0.139x_n + 0.263y_n + 0.57, \\
+0.246x_n + 0.224y_n − 0.036), & 0.02 \le r \le 0.17,\\
+(0.17x_n − 0.215y_n + 0.408, \\
+0.222x_n + 0.176y_n + 0.0893), & 0.17 < r \le 0.3,\\
+(0.781x_n + 0.034y_n + 0.1075,\\
+−0.032x_n + 0.739y_n + 0.27), & 0.3 < r < 1.
+\end{cases}.  
+$$
+
+### ii. Case 2
+
+
+### ii. Case 3
+
+
+### iv. Self-Affin Tree
+
+## 5. Sierpiński Case
+
+### i. Gasket or Sierpinski right triangle.
+### ii. Carpet
+### iii. Cantor Dust 
+### iv. Vicsek fractal or Vicsek Snowflake
+### v. cross form of the Vicsek fractal
+### vi. cross-shaped Cantor square or rotated Cantor dust.
+### vii. Pyramid
+### viii. Cube
+### ix. Jeruselum Cross
+### ix. Jeruselum Cube
+### x. Cheese
+
+## 6. Koch 
+
+### i. Curve
+
+### ii. Snowflakes
+
+## 7. Curve
+
+### i. Mystery Curve
+
+### ii. Moore Curve
+
+### iii. Hilbert Curve
+
+### iv. Gosper Curve
+
+## 8. Diffusion-Limited Aggregation(DLA)
+
+## 9. Correlated Ballistic Deposition
