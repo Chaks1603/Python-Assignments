@@ -131,8 +131,18 @@ y_{n+1} &= x_n
 \end{aligned}
 $$
 
+## 12. Zaslavskii Map
 
-## 12. Web Map (Periodically-Kicked Hamiltonian System)
+$$ 
+\begin{aligned}
+x_{n{\tiny + 1}} &= [x_n + \nu(1 + \mu y_n) + \epsilon\nu\mu\cos(2\pi x_n)]\mod 1 \\                                                       
+y_{n{\tiny + 1}} &= e^{-\Gamma} (y_n + \epsilon\cos(2\pi x_n)) \\                                  
+\mu &= \frac{1 - e^{-\Gamma}}{\Gamma}
+\end{aligned}
+$$
+
+
+## 13. Web Map (Periodically-Kicked Hamiltonian System)
 
 Equation of motion:
 
